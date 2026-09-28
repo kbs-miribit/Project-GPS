@@ -18,7 +18,7 @@
 docker compose up -d --build
 ```
 
-http://localhost:3000 접속 후 'GPS' 버튼 클릭 → 브라우저의 위치 권한 허용
+https://geolocationapi.miribit.cloud (또는 서버에서 http://localhost) 접속 후 'GPS' 버튼 클릭 → 브라우저의 위치 권한 허용
 
 > Geolocation API는 보안 컨텍스트(HTTPS 또는 localhost)에서만 동작합니다.
 
